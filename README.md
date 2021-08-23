@@ -11,6 +11,19 @@ need be.
 In order to install, just download the source and open the index.html with either 
 Chrome or Safari (not tested with Firefox or Microsoft Browser).
 
+# Objects
+---
+
+## Sheet Object
+
+## Block Object
+
+## Connector Object
+
+## Line Object
+
+---
+
 # Create Blocks
 The blocks work like small, distributed PLCs. A block will take it's input(s), solve some logic
 and write it's output(s).
