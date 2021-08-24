@@ -7,8 +7,7 @@ manufacturing and includes, but is not limited to, Programmable Logic Controller
 This simulator is also meant for users to be able to develop custom blocks to simulate if
 need be. 
 
-YouTube Demo Video:
-https://youtu.be/VDzM3FngfBk
+[YouTube Demo Video](https://youtu.be/VDzM3FngfBk)
 
 # Installation
 In order to install, just download the source and open the index.html with either 
